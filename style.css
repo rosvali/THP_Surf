@@ -1,0 +1,19 @@
+body
+{
+	background-color: #DCDCDC;
+}
+
+.jumbotron
+{
+	height: 600px;
+	background-image: url("https://images.pexels.com/photos/1139541/pexels-photo-1139541.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	background-repeat: no-repeat;
+	text-align: center;
+	background-size: 100% 100%;
+
+}
+
+.container-fluid
+{
+	text-align: center;
+}
